@@ -1,0 +1,10 @@
+.logincontainer {
+    background-color: rgb(5, 63, 63);
+   /* position: absolute; */
+   margin: auto;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
